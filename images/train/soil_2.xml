@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soil</folder>
+	<filename>soil_2.jpg</filename>
+	<path>/Users/soumikmukherjee/Desktop/FarmBot/dataest_jpeg/train/soil/soil_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>231</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>4</ymin>
+			<xmax>227</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>
