@@ -1,0 +1,26 @@
+<annotation>
+	<folder>grass</folder>
+	<filename>grass_497.jpg</filename>
+	<path>C:\CNN\dataest_jpeg\train\grass\grass_497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grass</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>263</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
